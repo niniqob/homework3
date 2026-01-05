@@ -3,8 +3,8 @@
 <suite name="HomeworkAssignmentSuite" parallel="classes" thread-count="2">
     <test name="FormAndAlertTests">
         <classes>
-            <class name="AlertTests"/>
-            <class name="FormTests"/>
+            <class name="tests.AlertTests"/>
+            <class name="tests.FormTests"/>
         </classes>
     </test>
 </suite>
